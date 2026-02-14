@@ -20,5 +20,17 @@ I am an aspiring Manual QA Tester with a strong focus on ensuring software quali
 ---
 
 ## 🚀 Projects
-* **[Project Name]** - Manual test execution and bug reporting for a web application.
+### 🛒 E-commerce Manual Testing Project: Militaria.pl
+A comprehensive manual testing project focused on functional and usability aspects of a major Polish e-commerce platform.
+
+* **Objective:** To ensure a seamless user journey from product discovery to the final checkout process.
+* **Scope:** Functional testing, UI/UX analysis, Cross-browser testing, and Mobile responsiveness.
+* **Tools:** Jira (Bug Reporting), Chrome DevTools, Lighthouse (Performance).
+
+**Key Activities:**
+* Created a **Test Plan** and a set of **Test Cases** covering the "Happy Path" and "Edge Cases".
+* Performed **Exploratory Testing** on the search engine and filtering system.
+* Conducted **Regression Testing** after simulating UI changes.
+* Documented bugs with clear reproduction steps and expected vs. actual results.
+
 * **[Project Name]** - API testing collection using Postman.
