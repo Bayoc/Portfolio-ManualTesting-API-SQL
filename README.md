@@ -1,4 +1,4 @@
-# BARTŁOMIEJ JABŁONOWSKI
+# BARTŁOMIEJ JABŁONOWSKI PORTFOLIO
 
 # ABOUT ME
 I am an aspiring Manual QA Tester with a strong focus on ensuring software quality and a great user experience. My journey into testing stems from a natural curiosity about how things work and a keen eye for detail. I am passionate about finding bugs, documenting them clearly, and collaborating with developers to deliver polished products. Currently, I am expanding my skills in test case design, bug reporting and a little bit of automation 🤖. 
@@ -32,4 +32,4 @@ A comprehensive manual testing project focused on functional and usability aspec
 * Conducted **Regression Testing** after simulating UI changes.
 * Documented bugs with clear reproduction steps and expected vs. actual results.
 
-* **[Project Name]** - API testing collection using Postman.
+### 🚧 [Project Name]** - API testing collection using Postman.
