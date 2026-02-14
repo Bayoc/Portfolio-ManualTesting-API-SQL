@@ -32,4 +32,4 @@ A comprehensive manual testing project focused on functional and usability aspec
 * Conducted **Regression Testing** after simulating UI changes.
 * Documented bugs with clear reproduction steps and expected vs. actual results.
 
-### 🚧 [Project Name]** - API testing collection using Postman.
+### 🚧 [Project Name] - API testing collection using Postman.
