@@ -1,4 +1,5 @@
-# BARTŁOMIEJ JABŁONOWSKI PORTFOLIO
+# PORTFOLIO
+Hey, I am Bartłomiej Jabłonowski and this is my journey.
 
 # ABOUT ME
 I am an aspiring Manual QA Tester with a strong focus on ensuring software quality and a great user experience. My journey into testing stems from a natural curiosity about how things work and a keen eye for detail. I am passionate about finding bugs, documenting them clearly, and collaborating with developers to deliver polished products. Currently, I am expanding my skills in test case design, bug reporting and a little bit of automation 🤖. 
