@@ -24,7 +24,7 @@ Search suggestions fail to display for "Bennon" brand when typos are present
 
 ---
 
-## 🖼️ Dowody wizualne (Evidence)
+## 🖼️ Evidence
 
 ### Widok błędu
 <details>
