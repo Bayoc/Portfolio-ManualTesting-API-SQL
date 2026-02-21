@@ -23,17 +23,15 @@ even if the full name is entered correctly. According to the requirements, the a
 
 ## 🖼️ Evidence
 
-### Bug reported in Jira
+### Jira bug details
 <details>
-  <summary>Click here to check out raports in Jira</summary>
-  
-  #### Screenshot 1: Jira bug details
+  <summary>Show screenshot 1</summary>
   <img width="1249" height="785" alt="image" src="https://github.com/user-attachments/assets/1c6e9698-7e29-4549-bcb3-a8bd6863061f" />
   </details>
 
+### Screenshot of the bug: search phrase does not trigger the dropdown.
 <details>
-  <summary>Full Size screenshot of bug</summary>
-  #### Screenshot 2: Full size bug view
+  <summary>Show screenshot 2</summary>
   <img width="1466" height="582" alt="image" src="https://github.com/user-attachments/assets/85bd7115-1b7e-4f7a-a99c-420839bc3a90" />
 </details>
 
