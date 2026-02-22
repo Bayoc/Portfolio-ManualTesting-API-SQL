@@ -30,7 +30,7 @@ A comprehensive manual testing project focused on functional and usability aspec
 #### 📁 Full Project Documentation
 Everything related to this project is organized in the following documents:
 * 📄 **[Google Sheets: Live Test Suite](https://docs.google.com/spreadsheets/d/1_gszuUNTEtNfG3AQptmJbks0TZzhoaXkgLZSZ03MdS8/edit?gid=0#gid=0)** – The "master" file with interactive Test Cases and execution status.
-* 📋 **[Test Plan (Markdown Version)](./MILITARIA_PROJECT/TEST_PLAN_MILITARIA.md)** – Detailed strategy, scope, and environment details.
+* 📋 **[Test Plan (Markdown Version)](./MILITARIA_PROJECT/TESTS/TEST_PLAN_MILITARIA.md)** – Detailed strategy, scope, and environment details.
 * 📊 **[Test Summary Report](./MILITARIA_PROJECT/TESTS/MILITARIA_TESTS_SUMMARY.md)** – High-level execution results and quality assessment.
 * 🐞 **[Bug Reports Portfolio](./MILITARIA_PROJECT/BUGS)** – (Optional: if you have a separate file for JIRA screenshots).
 
