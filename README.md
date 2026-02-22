@@ -41,5 +41,25 @@ Everything related to this project is organized in the following documents:
 * Documented defects with clear reproduction steps and severity levels in **Jira**.
 
 ---
-### 🚧 [Project Name] - API testing collection using Postman.
-*(Section under development)*
+---
+
+### 🧪 API Testing Project: Restful-Booker Collection
+A specialized API testing suite designed to verify CRUD (Create, Read, Update, Delete) operations within a reservation system.
+
+* **Objective:** To validate backend logic, data integrity, and authentication flows using automated scripts.
+* **Environment:** [Restful-Booker API](https://restful-booker.herokuapp.com/)
+* **Tools:** Postman, JavaScript (Postman Sandbox), JSON.
+
+#### 📁 API Documentation & Resources
+* 📁 **[Postman Collection (JSON Export)](./MILITARIA_PROJECT/API/Restful_Booker_Collection.json)** – Import this into Postman to see the full test suite.
+* 📋 **[API Test Plan](./MILITARIA_PROJECT/API/API_TEST_PLAN.md)** – Documentation of endpoints, test data, and expected status codes.
+
+#### ⚙️ Technical Highlights
+* **Dynamic Request Chaining:** Implemented an automated flow where the `bookingid` is extracted from a `POST` response and passed as a variable `{{bookingid}}` to subsequent `GET`, `PUT`, and `DELETE` requests.
+* **Automated Assertions:** Developed JavaScript scripts to verify:
+    * **Response Integrity:** Checking if data types (e.g., numbers vs strings) match the documentation.
+    * **Status Code Validation:** Ensuring 200 OK for success and 401/403 for unauthorized access attempts.
+    * **Schema Verification:** Validating the structure of JSON objects.
+* **Authentication Flow:** Implemented automated token generation (`/auth`) to allow secure updates and deletions.
+
+---
