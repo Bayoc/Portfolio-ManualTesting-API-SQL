@@ -1,13 +1,12 @@
 # SQL Database Testing Portfolio - Militaria.pl Case Study
 
 ## 📌 Project Overview
-As part of the quality assurance process for the Militaria.pl e-commerce platform, I performed database testing to ensure data integrity, consistency, and accuracy. This document showcases the SQL queries I used to verify that the backend database correctly reflects the actions performed via the user interface (UI).
+This document presents a set of SQL queries designed to demonstrate how backend data integrity could be verified for an e-commerce platform like Militaria.pl. Since direct database access is restricted, these scenarios serve as a **technical simulation** of the queries a QA Engineer would execute to ensure that UI actions (like registration or profile updates) are correctly reflected in the database.
 
-## 🛠️ Technical Environment
-* **Database Engine:** MySQL 
-* **Tool:** MySQL Workbench
-* **Testing Type:** Backend Data Validation
-* **Testing Scope:** User Profile Management & Account Lifecycle
+## 🛠️ Technical Context
+* **Database Type:** Relational (MySQL)
+* **Objective:** Verification of the User Account Lifecycle and GDPR compliance.
+* **Scope:** Simulation based on a dedicated test account: `militaria@test.pl`.
 
 ---
 
@@ -59,7 +58,7 @@ WHERE email = 'militaria@test.pl';
 ```sql
 SELECT product_name, category, stock_quantity 
 FROM products 
-WHERE category = 'Airsoft' 
+WHERE category = 'AirSoft Gun' 
 AND stock_quantity > 0;
 ```
 
@@ -83,7 +82,7 @@ ORDER BY price ASC;
 ```sql
 SELECT user_id, email, registration_date 
 FROM users 
-WHERE email = 'test.user@example.com';
+WHERE email = 'militaria@test.pl';
 ```
 
 ### 9. Order Management System (OMS) Verification
@@ -106,6 +105,6 @@ ORDER BY order_date DESC;
 SELECT users.email, orders.order_id, orders.total_amount 
 FROM users 
 JOIN orders ON users.user_id = orders.customer_id 
-WHERE users.email = 'test.user@example.com';
+WHERE users.email = 'militaria@test.pl';
 ```
 
