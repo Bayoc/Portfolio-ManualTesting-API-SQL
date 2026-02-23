@@ -8,7 +8,7 @@ I am an aspiring Manual QA Tester with a strong focus on ensuring software quali
 
 ### **Software Testing**
 * **Manual Testing:** Functional, Regression, Smoke, and Exploratory Testing.
-* **Test Management:** Jira, xRay, Confluence, Trello.
+* **Test Management:** Jira, Xray, Confluence, Trello.
 * **API Testing:** Postman.
 * **Web Tools:** Chrome DevTools, HTML5, CSS3.
 
@@ -67,7 +67,7 @@ A specialized API testing suite designed to verify CRUD (Create, Read, Update, D
     * **Status Code Validation:** Ensuring 200 OK for success and 401/403 for unauthorized access attempts.
     * **Schema Verification:** Validating the structure of JSON objects.
 * **Authentication Flow:** Implemented automated token generation (`/auth`) to allow secure updates and deletions.
-* 
+  
 ### 🛠️ How to run the API tests:
 1.  **Import:** In Postman, click "Import" and select both `.json` files (Collection and Environment).
 2.  **Environment:** Select the `Restful-Booker-Env` from the environment dropdown in the top-right corner.
