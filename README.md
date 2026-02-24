@@ -21,7 +21,7 @@ I am an aspiring Manual QA Tester with a strong focus on ensuring software quali
 Practical application of SQL for data validation and backend testing.
 
 * 📂 **[Business Scenarios (Militaria.pl simulation)](./SQL/MILITARIA_SQL.md)** – focused on user lifecycle, GDPR, and data persistence.
-* 📂 **[Advanced Queries (Sakila DB Study)](./SQL/SAKILA_STUDY.md)** – focused on complex JOINs, aggregation, and relational logic.
+* 📂 **[Basic To Advanced Queries (Sakila DB Study)](./SQL/SAKILA_STUDY.md)** – Focused on SQL queries ranging from simple data retrieval to complex JOINs, aggregation, and relational logic.
 
 ---
 
