@@ -75,3 +75,11 @@ A specialized API testing suite designed to verify CRUD (Create, Read, Update, D
 4.  **Note:** The suite is fully automated – it generates its own Auth Token and passes the `bookingid` between requests.
 
 ---
+---
+
+### 🏗️ [E2E Test Automation Framework | Playwright & TypeScript](https://github.com/Bayoc/Portfolio-Playwright-Automation)
+*A comprehensive automation suite built for the Automation Exercise platform.*
+- **Tech Stack:** Playwright, TypeScript, GitHub Actions (CI/CD).
+- **Key Features:** Page Object Model (POM) architecture, integrated HTML reporting, and fully automated CI/CD pipeline triggered on every push.
+- **Status:** Fully functional with green builds in GitHub Actions.
+
