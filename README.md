@@ -13,7 +13,7 @@ I am an aspiring Manual QA Tester with a strong focus on ensuring software quali
 * **Web Tools:** Chrome DevTools, HTML5, CSS3.
 
 ### **Technical & Automation**
-* **Databases:** SQL (Basic queries, data verification).
+* **Databases:** SQL (Basic and intermediate queries, data verification).
 * **Version Control:** Git, GitHub.
 * **Test Automation:** Playwright, TypeScript.
 
