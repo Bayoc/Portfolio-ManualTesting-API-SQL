@@ -82,4 +82,13 @@ A specialized API testing suite designed to verify CRUD (Create, Read, Update, D
 - **Tech Stack:** Playwright, TypeScript, GitHub Actions (CI/CD).
 - **Key Features:** Page Object Model (POM) architecture, integrated HTML reporting, and fully automated CI/CD pipeline triggered on every push.
 - **Status:** Fully functional with green builds in GitHub Actions.
+  
+---
+---
 
+### 🔌 [API Test Automation | Playwright & TypeScript](https://github.com/Bayoc/Portfolio-Playwright-API)
+*Automated API test suite covering Automation Exercise and Restful-Booker APIs.*
+- **Tech Stack:** Playwright, TypeScript, GitHub Actions (CI/CD).
+- **Key Features:** API Client architecture (analogous to POM), custom fixtures for token injection, create → verify → cleanup pattern, negative testing.
+- **Coverage:** 20 tests across 2 APIs — full CRUD, authentication flows, method validation.
+- **Status:** Fully functional with green builds in GitHub Actions.
